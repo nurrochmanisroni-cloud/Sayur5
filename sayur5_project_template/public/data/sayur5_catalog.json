@@ -1,0 +1,247 @@
+{
+  "items": [
+    {
+      "slug": "bayam",
+      "name": "Bayam",
+      "unit_or_isi": "1 ikat",
+      "category": "Sayuran Daun",
+      "active": true,
+      "stock": 80,
+      "price": 5000
+    },
+    {
+      "slug": "kangkung",
+      "name": "Kangkung",
+      "unit_or_isi": "1 ikat",
+      "category": "Sayuran Daun",
+      "active": true,
+      "stock": 70,
+      "price": 5000
+    },
+    {
+      "slug": "sawi-hijau",
+      "name": "Sawi Hijau",
+      "unit_or_isi": "1 ikat",
+      "category": "Sayuran Daun",
+      "active": true,
+      "stock": 60,
+      "price": 5000
+    },
+    {
+      "slug": "terong",
+      "name": "Terong Ungu",
+      "unit_or_isi": "2 buah",
+      "category": "Sayuran Buah",
+      "active": true,
+      "stock": 50,
+      "price": 5000
+    },
+    {
+      "slug": "tomat",
+      "name": "Tomat",
+      "unit_or_isi": "4 buah",
+      "category": "Sayuran Buah",
+      "active": true,
+      "stock": 70,
+      "price": 5000
+    },
+    {
+      "slug": "timun",
+      "name": "Timun",
+      "unit_or_isi": "2 buah",
+      "category": "Sayuran Buah",
+      "active": true,
+      "stock": 60,
+      "price": 5000
+    },
+    {
+      "slug": "wortel",
+      "name": "Wortel",
+      "unit_or_isi": "3 buah",
+      "category": "Sayuran Umbi",
+      "active": true,
+      "stock": 80,
+      "price": 5000
+    },
+    {
+      "slug": "kentang",
+      "name": "Kentang",
+      "unit_or_isi": "500 gr",
+      "category": "Sayuran Umbi",
+      "active": true,
+      "stock": 70,
+      "price": 5000
+    },
+    {
+      "slug": "bawang-merah",
+      "name": "Bawang Merah",
+      "unit_or_isi": "250 gr",
+      "category": "Bumbu Dapur",
+      "active": true,
+      "stock": 60,
+      "price": 5000
+    },
+    {
+      "slug": "bawang-putih",
+      "name": "Bawang Putih",
+      "unit_or_isi": "250 gr",
+      "category": "Bumbu Dapur",
+      "active": true,
+      "stock": 60,
+      "price": 5000
+    },
+    {
+      "slug": "cabai-merah",
+      "name": "Cabai Merah",
+      "unit_or_isi": "100 gr",
+      "category": "Bumbu Dapur",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "cabai-rawit",
+      "name": "Cabai Rawit",
+      "unit_or_isi": "100 gr",
+      "category": "Bumbu Dapur",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "tumis-bayam-jagung",
+      "name": "Tumis Bayam + Jagung",
+      "unit_or_isi": "1 pack sayur siap masak",
+      "category": "Paket Praktis - Tumis",
+      "active": true,
+      "stock": 30,
+      "price": 5000
+    },
+    {
+      "slug": "tumis-terong-balado",
+      "name": "Tumis Terong Balado",
+      "unit_or_isi": "1 pack sayur siap masak",
+      "category": "Paket Praktis - Tumis",
+      "active": true,
+      "stock": 30,
+      "price": 5000
+    },
+    {
+      "slug": "sayur-asem",
+      "name": "Sayur Asem",
+      "unit_or_isi": "1 pack sayur siap masak",
+      "category": "Paket Praktis - Kuah",
+      "active": true,
+      "stock": 25,
+      "price": 5000
+    },
+    {
+      "slug": "sayur-bening",
+      "name": "Sayur Bening Bayam",
+      "unit_or_isi": "1 pack sayur siap masak",
+      "category": "Paket Praktis - Kuah",
+      "active": true,
+      "stock": 25,
+      "price": 5000
+    },
+    {
+      "slug": "capcay-sederhana",
+      "name": "Capcay Sederhana",
+      "unit_or_isi": "1 pack sayur siap masak",
+      "category": "Paket Praktis - Capcay",
+      "active": true,
+      "stock": 20,
+      "price": 5000
+    },
+    {
+      "slug": "telur-ayam",
+      "name": "Telur Ayam",
+      "unit_or_isi": "4 butir",
+      "category": "Lauk Mentah - Hewani",
+      "active": true,
+      "stock": 50,
+      "price": 5000
+    },
+    {
+      "slug": "telur-puyuh",
+      "name": "Telur Puyuh",
+      "unit_or_isi": "12 butir",
+      "category": "Lauk Mentah - Hewani",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "ikan-kembung",
+      "name": "Ikan Kembung",
+      "unit_or_isi": "2 ekor kecil",
+      "category": "Lauk Mentah - Hewani",
+      "active": true,
+      "stock": 30,
+      "price": 5000
+    },
+    {
+      "slug": "ikan-asin",
+      "name": "Ikan Asin",
+      "unit_or_isi": "100 gr",
+      "category": "Lauk Mentah - Hewani",
+      "active": true,
+      "stock": 25,
+      "price": 5000
+    },
+    {
+      "slug": "tempe",
+      "name": "Tempe",
+      "unit_or_isi": "500 gr",
+      "category": "Lauk Mentah - Nabati",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "tahu-putih",
+      "name": "Tahu Putih",
+      "unit_or_isi": "6 potong",
+      "category": "Lauk Mentah - Nabati",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "tahu-kuning",
+      "name": "Tahu Kuning",
+      "unit_or_isi": "5 potong",
+      "category": "Lauk Mentah - Nabati",
+      "active": true,
+      "stock": 35,
+      "price": 5000
+    },
+    {
+      "slug": "ayam-marinasi",
+      "name": "Ayam Marinasi Bumbu Kuning",
+      "unit_or_isi": "±250 gr",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 30,
+      "price": 5000
+    },
+    {
+      "slug": "lele-marinasi",
+      "name": "Lele Marinasi Bumbu Bawang",
+      "unit_or_isi": "2 ekor kecil",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 20,
+      "price": 5000
+    },
+    {
+      "slug": "mujair-marinasi",
+      "name": "Mujair Marinasi Sambal Kuning",
+      "unit_or_isi": "2 ekor kecil",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 20,
+      "price": 5000
+    }
+  ]
+}
