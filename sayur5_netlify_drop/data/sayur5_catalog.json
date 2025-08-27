@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "slug": "bayam",
+      "name": "Bayam",
+      "unit_or_isi": "1 ikat",
+      "category": "Sayuran Daun",
+      "active": true,
+      "stock": 80,
+      "price": 5000
+    },
+    {
+      "slug": "kangkung",
+      "name": "Kangkung",
+      "unit_or_isi": "1 ikat",
+      "category": "Sayuran Daun",
+      "active": true,
+      "stock": 70,
+      "price": 5000
+    },
+    {
+      "slug": "wortel",
+      "name": "Wortel",
+      "unit_or_isi": "3 buah",
+      "category": "Sayuran Umbi",
+      "active": true,
+      "stock": 80,
+      "price": 5000
+    },
+    {
+      "slug": "tomat",
+      "name": "Tomat",
+      "unit_or_isi": "4 buah",
+      "category": "Sayuran Buah",
+      "active": true,
+      "stock": 70,
+      "price": 5000
+    },
+    {
+      "slug": "tempe",
+      "name": "Tempe",
+      "unit_or_isi": "500 gr",
+      "category": "Lauk Mentah - Nabati",
+      "active": true,
+      "stock": 40,
+      "price": 5000
+    },
+    {
+      "slug": "ayam-marinasi",
+      "name": "Ayam Marinasi Bumbu Kuning",
+      "unit_or_isi": "±250 gr",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 30,
+      "price": 5000
+    },
+    {
+      "slug": "lele-marinasi",
+      "name": "Lele Marinasi",
+      "unit_or_isi": "2 ekor kecil",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 20,
+      "price": 5000
+    },
+    {
+      "slug": "mujair-marinasi",
+      "name": "Mujair Marinasi",
+      "unit_or_isi": "2 ekor kecil",
+      "category": "Lauk Marinasi",
+      "active": true,
+      "stock": 20,
+      "price": 5000
+    }
+  ]
+}
